@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SwitchRMM, also known as Trip Armstrong, the Owner and President of Switch Consulting, Inc. based in Fort Collins, CO.
+- 👀 I’m interested in providing top-notch professional services for RMM-specific software, enhancing IT automation, and scalability for managed service providers.
+- 🌱 I’m currently learning advanced techniques in cloud services, exploring deeper integrations of AI into RMM solutions, and enhancing user experience through streamlined interfaces.
+- 💞️ I’m looking to collaborate on projects that push the boundaries of RMM capabilities, focusing on developing robust, scalable solutions that automate and simplify IT management.
+- 📫 How to reach me: Feel free to email me at trip@switchrmm.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love outdoor activities, especially fishing. I'm also in the process of crafting a custom display for my wife's collection of large World of Warcraft collectible statues.
